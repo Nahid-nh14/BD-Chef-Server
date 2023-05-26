@@ -1,0 +1,176 @@
+[
+    {
+        "id": "11",
+        "chef_name": "Jahanara Ahmed",
+        "chef_picture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 700,
+        "bio": "Jahanara Ahmed is a Bangladeshi chef who specializes in street food and snacks. She grew up in a family of street vendors and has inherited many of their recipes and techniques. She is a regular at food festivals and events in Dhaka.",
+        "num_recipes": 35,
+        "years_of_experience": 10,
+        "recipes": [
+            {
+                "_id": "11",
+                "name": "fish curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "12",
+                "name": "mutton curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "13",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "chef_name": "Farida Begum",
+        "chef_picture": "https://images.pexels.com/photos/3771106/pexels-photo-3771106.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 500,
+        "bio": "Farida Begum is a Bangladeshi chef who specializes in traditional Bangladeshi cuisine. She has worked in several restaurants in Dhaka and has been recognized for her contributions to the food industry in Bangladesh. She is passionate about preserving the authenticity of Bangladeshi dishes and ingredients.",
+        "num_recipes": 30,
+        "years_of_experience": 10,
+        "recipes": [
+            {
+                "_id": "14",
+                "name": "Fish Curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "15",
+                "name": "Mutton Curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "16",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "chef_name": "Sadia Sultana",
+        "chef_picture": "https://images.pexels.com/photos/1587830/pexels-photo-1587830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 800,
+        "bio": "Sadia Sultana is a Bangladeshi chef who specializes in fusion cuisine, blending traditional Bangladeshi flavors with international influences. She is a graduate of the Culinary Institute of America and has worked in restaurants in New York City and Dhaka.",
+        "num_recipes": 50,
+        "years_of_experience": 8,
+        "recipes": [
+            {
+                "_id": "14",
+                "name": "Fish Curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "15",
+                "name": "Mutton Curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "16",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "chef_name": "Kamrul Islam",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 1200,
+        "bio": "Kamrul Islam is a Bangladeshi chef who has gained recognition for his innovative takes on traditional Bangladeshi dishes. He owns and operates a popular restaurant in Chittagong, where he experiments with new flavor combinations and techniques.",
+        "num_recipes": 40,
+        "years_of_experience": 12,
+        "recipes": [
+            {
+                "_id": "14",
+                "name": "Fish Curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "15",
+                "name": "Mutton Curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "16",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "chef_name": "Nazia Ahmed",
+        "chef_picture": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 600,
+        "bio": "Nazia Ahmed is a Bangladeshi chef who specializes in vegan and vegetarian cuisine. She is passionate about using fresh, seasonal ingredients and creating dishes that are both healthy and flavorful. She is a frequent contributor to food blogs and social media.",
+        "num_recipes": 25,
+        "years_of_experience": 6,
+        "recipes": [
+            {
+                "_id": "14",
+                "name": "Fish Curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "15",
+                "name": "Mutton Curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "16",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "chef_name": "Abdul Mannan",
+        "chef_picture": "https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "like": 1000,
+        "bio": "Abdul Mannan is a Bangladeshi chef who has gained international recognition for his mastery of traditional Bangladeshi sweets and desserts. He runs a popular sweet shop in Old Dhaka and has won numerous awards for his creations.",
+        "num_recipes": 20,
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "_id": "14",
+                "name": "Fish Curry",
+                "ingredients": "Fish 500g rohu, katla, or any firm-fleshed fish.Vegetable oil 2 tbsp.Onion 1 chopped.Garlic 2 cloves minced.Ginger paste 1 tbsp.Green chilies 2 sliced. Cumin powder 1 tsp.Coriander powder 1 tsp.Turmeric powder 1/2 tsp. Red chili powder 1/2 tsp.Salt 1 tsp.Water 1 cup.Tomato 1 cup.Coriander leaves 2tbsp chopped ",
+                "instructions": "Clean the fish and cut it into pieces. Rub the fish with salt and turmeric powder and set aside.Heat the oil in a pan and fry the onion until it is soft and translucent. Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the water and bring it to a boil.Add the fish pieces and tomato and let it simmer for 10-15 minutes until the fish is cooked and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan"
+            },
+            {
+                "_id": "15",
+                "name": "Mutton Curry",
+                "ingredients": "Mutton (goat meat): 500g, cut into pieces. Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 4 cloves, minced.Ginger paste: 1 tbsp.Green chilies: 2, sliced.Cumin powder: 1 tsp.Coriander powder: 1 tsp.Turmeric powder: 1/2 tsp.Red chili powder: 1/2 tspSalt: 1 tsp.Water: 1 cup.Tomato: 1, chopped.Coriander leaves: 2 tbsp, chopped. ",
+                "instructions": "Heat the oil in a pan and fry the onion until it is soft and translucent.Add the garlic, ginger paste, and green chilies and fry for another minute.Add the cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.Add the mutton pieces and tomato and fry until the meat is browned on all sides.Add the water and bring it to a boil.Lower the heat, cover the pan and let it simmer for 1-1.5 hours until the mutton is tender and the sauce is thickened.Garnish with chopped coriander leaves.Serve hot with steamed rice or naan."
+            },
+            {
+                "_id": "16",
+                "name": "Fried Rice",
+                "ingredients": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.",
+                "instructions": "Cooked rice: 3 cups.Vegetable oil: 2 tbsp.Onion: 1, chopped.Garlic: 2 cloves, minced.Carrots: 1, finely chopped.Frozen peas: 1/2 cup.Eggs: 2, beaten.Soy sauce: 2 tbsp.Salt: 1/2 tsp.Black pepper: 1/2 tsp.Spring onion: 2, chopped.Heat the oil in a large pan or wok over high heat.Add the onion and garlic and stir-fry for 1-2 minutes until fragrant.Add the chopped carrots and frozen peas and stir-fry for 2-3 minutes until the vegetables are cooked but still crunchy.Push the vegetables to one side of the pan and pour the beaten eggs onto the other side. Scramble the eggs until they are cooked through.Mix the eggs with the vegetables and add the cooked rice to the pan.Add the soy sauce, salt, and black pepper and stir-fry for 2-3 minutes until the rice is heated through and evenly coated with the sauce.Garnish with chopped spring onion and serve hot."
+            }
+        ]
+    }
+]
